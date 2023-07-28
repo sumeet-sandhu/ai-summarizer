@@ -1,8 +1,17 @@
-# React + Vite
+# 📰 Article Summarizer Application using OpenAI's GPT model 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the future of text summarization! This project is an innovative Article Summarizer that harnesses the remarkable capabilities of OpenAI's GPT model. Powered by React, JavaScript, Tailwind CSS, Vite, and Redux Toolkit, it offers a seamless user experience and lightning-fast performance.
 
-Currently, two official plugins are available:
+🔍 Effortlessly condense lengthy articles into concise summaries with the help of advanced AI technology. The intuitive interface and smart algorithms make information absorption a breeze.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚡ Boost your productivity and stay ahead of the information overload with this application. Embrace the power of AI-driven text summarization and streamline your reading experience.
+
+Contributions and feedback are always welcome! Let's shape the future of text summarization together. Happy summarizing! 😄
+
+### Few Key features:
+- ReactJS project using Vite
+- a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
+- made advanced RTK query API requests that fire on condition
+- saves history using the local storage
+- handles form events and catches errors
+- implement copy to clipboard
